@@ -66,3 +66,6 @@ Based on typical business requirements (transactional processing, large-scale an
 * **Backup and Disaster Recovery:** Implement **Azure Backup** or **Azure Site Recovery** to create a robust plan against data loss.
 * **Data Visualization:** Integrate tools like **Power BI** within the Azure environment to create dashboards that provide management with real-time insights into trends.
 * **Future Scalability:** Leverage Azure's elastic services to ensure the environment can seamlessly scale to accommodate business growth and increasing data volumes.
+* 
+*** Open File
+  Download the raw file from Data_Technician_Workbook_Week_5 New.docx and Read.
